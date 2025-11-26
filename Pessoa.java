@@ -1,3 +1,4 @@
+//Nome: Renan Gonçalves Pereira
 // Não to conseguindo grava com audio por conta do pc a entrada do fone não ta pegando e não tem o bluetooth
 //e o video deu poblema mas com essa primeira class por eu to gravando hoje
 //A outra parte ta com Kevin
@@ -36,4 +37,5 @@ public class Pessoa {
         this.cpf = cpf;
         this.email = email;
     }
+
 }
